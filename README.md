@@ -15,24 +15,23 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project :
-
+## ⏳ Cara Install :
 ```bash
 > git clone https://github.com/Ivan-MLN/SELFBOT
-```
-
-## Install the dependencies :
-
-```bash
 > cd SELFBOT
 > bash install.sh
 ```
-
-### Usage :
+## ✅ Cara aktifin :
 ```bash
+> cd SELFBOT
 > npm start
 ```
-
+##  ❌ Cara matiin :
+```
+CTRL + C
+atau
+CTRL + Z
+```
 ## 🤔 Bot Tidak Mau Respon?
 ```bash
 npm i @adiwajshing/baileys@3.3.0
