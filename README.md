@@ -32,6 +32,12 @@
 ```bash
 > npm start
 ```
+
+## 💵 Price
+```
+Jika Anda Mengingin Kan Script Ori/ No Encrypt,
+Silah Kan Hubungi Saya Melalui Nomor Di Bawah Ini.
+```
 ## ✍️ Editing the file
 Edit the required value in `setting.json`:
 ```json
