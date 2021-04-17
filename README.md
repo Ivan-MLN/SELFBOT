@@ -41,7 +41,6 @@ prefix: "z"
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://github.com/Arya-was"><img alt="GitHub" src="https://img.shields.io/badge/Arya%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=blue"/></a>
 * <a href="https://github.com/MrG3P5"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=red"/></a>
-* 
 ### contact me
 <a href="https://wa.me/628812904283"><img alt="WhatsApp" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue"/></a>
 
