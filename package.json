@@ -34,4 +34,5 @@
   },
   "scripts": {
     "start": "node vanz.js"
-  },
+   },
+  }
