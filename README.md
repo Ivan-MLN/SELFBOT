@@ -32,10 +32,22 @@
 ```bash
 > npm start
 ```
-
-### Prefix 
-```bash
-prefix: "z"
+## ✍️ Editing the file
+Edit the required value in `setting.json`.
+```json
+{
+    "name": "@Ivanzz", 
+    "prefix": "z",
+    "lol": "beta",
+    "zeks": "apivinz",
+    "imgbb_key": "apikey",
+    "fake": "SELFBOT",
+    "harga_toko": "999999999",
+    "ucapan_welcome": "Welcome",
+    "ucapan_leave": "Good Bye",
+    "author": "@Ivanzz_",
+    "package_name": "Mastah"
+}
 ```
 ## Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
