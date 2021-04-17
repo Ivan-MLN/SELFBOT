@@ -1,1 +1,1 @@
-gada awomoakaoakakaoaakaomak
+const y = anu
