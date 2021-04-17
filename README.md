@@ -15,25 +15,25 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project
+## Clone this project :
 
 ```bash
 > git clone https://github.com/Ivan-MLN/SELFBOT
 ```
 
-## Install the dependencies:
+## Install the dependencies :
 
 ```bash
 > cd SELFBOT
 > bash install.sh
 ```
 
-### Usage
+### Usage :
 ```bash
 > npm start
 ```
 ## ✍️ Editing the file
-Edit the required value in `setting.json`.
+Edit the required value in `setting.json`:
 ```json
 {
     "name": "@Ivanzz", 
