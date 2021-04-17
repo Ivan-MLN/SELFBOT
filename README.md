@@ -35,8 +35,8 @@
 
 ## 💵 Price
 ```
-Jika Anda Mengingin Kan Script Ori/ No Encrypt,
-Silah Kan Hubungi Saya Melalui Nomor Di Bawah Ini.
+Jika Anda Mengingin Kan Script Ori / No Encrypt,
+Silah Kan Hubungi Saya Melalui Contact Me .
 ```
 ## ✍️ Editing the file
 Edit the required value in `setting.json`:
