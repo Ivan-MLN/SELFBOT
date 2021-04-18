@@ -38,6 +38,10 @@ npm i @adiwajshing/baileys@3.3.0
 Jika Anda Mengingin Kan Script Ori / Full,
 Silah Kan Hubungi Saya Melalui Contact Me .
 ```
+# 🔥🔑 Apikey?
+* [`imgbb`](https://api.imgbb.com/)
+* [`lolhuman`](https://api.lolhuman.xyz/pricing)
+
 ## ✍️ Editing the file
 Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/blob/main/setting.json)
 ```
