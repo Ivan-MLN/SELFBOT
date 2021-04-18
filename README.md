@@ -32,8 +32,6 @@ CTRL + Z
 ## 🤔 Bot Tidak Mau Respon?
 ```bash
 npm i @adiwajshing/baileys@3.3.0
-atau
-npm i @adiwajshing/baileys@3.4.1
 ```
 ## 💵 Price
 ```
