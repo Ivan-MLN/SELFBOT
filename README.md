@@ -58,7 +58,7 @@ Edit the required value in `setting.json`:
 ```
 ## 😍 Feature
 
-| FEATURE |
+| FEATURE |✅|
 | ------------- | ------------- |
 | GC Buka/Tutup|✅|
 | Fitnah|✅|
