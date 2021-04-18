@@ -36,7 +36,7 @@ npm i @adiwajshing/baileys@3.4.1
 ```
 ## 💵 Price
 ```
-Jika Anda Mengingin Kan Script Ori / No Encrypt,
+Jika Anda Mengingin Kan Script Ori / Full,
 Silah Kan Hubungi Saya Melalui Contact Me .
 ```
 ## ✍️ Editing the file
@@ -55,6 +55,56 @@ Edit the required value in `setting.json`:
     "author": "@Ivanzz_",
     "package_name": "Mastah"
 }
+```
+## 😍 Feature
+```
+| GC Buka/Tutup |✅|
+| ------------- | ------------- |
+| Fitnah|✅|
+| Setting Desk/Name HC|✅|
+| Tagall|✅|
+| Leave|✅|
+| Hidetag|✅|
+| Getpic|✅|
+| Ytmp3|✅|
+| Ytmp4|✅|
+| Playmp3|✅|
+| Tiktok|✅|
+| Ig|✅|
+| Igtv|✅|
+| Ssweb|✅|
+| Brainly|✅|
+| Tahta|✅|
+| Toimg|✅|
+| Tomp3|✅|
+| Tovn|✅|
+| Sticker|✅|
+| Sticker WM|✅|
+| Ocr|✅|
+| Addvn|✅|
+| Listvn|✅|
+| Getvn|✅|
+| Kick|✅|
+| Add|✅|
+| Antidelete|✅|
+| ThumbReply|✅|
+| ThumbMenu|✅|
+| FakeThumb|✅|
+| Speed|✅|
+| Ping|✅|
+| Block|✅|
+| ChatList|✅|
+| UnBlock|✅|
+| BlockList|✅|
+| Bass|✅|
+| Tempo|✅|
+| Volume|✅|
+| Hode|✅|
+| Imut|✅|
+| Return|✅|
+| Eval|✅|
+| Run|✅|
+| Term|✅|
 ```
 ## Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
