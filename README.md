@@ -46,7 +46,7 @@ Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/
     "prefix": "z",
     "lol": "beta",
     "zeks": "apivinz",
-    "imgbb_key": "apikey",
+    "imgbb_key": "[`Get Apikey`](https://api.imgbb.com/)",
     "fake": "SELFBOT",
     "harga_toko": "999999999",
     "ucapan_welcome": "Welcome",
