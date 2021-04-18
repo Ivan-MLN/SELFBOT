@@ -39,9 +39,9 @@ Jika Anda Mengingin Kan Script Ori / Full,
 Silah Kan Hubungi Saya Melalui Contact Me .
 ```
 # 🔥🔑 Apikey?
-* [`imgbb`](https://api.imgbb.com)
-* [`lolhuman`](https://api.lolhuman.xyz/pricing)
-* [``](https://api.zeks.xyz)‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
+* [`Imgbb-Uploader`](https://api.imgbb.com)
+* [`LoL Human`](https://api.lolhuman.xyz/pricing)
+* [`Zeks`](https://api.zeks.xyz)‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
 ## ✍️ Editing the file
 Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/blob/main/setting.json)
 ```json
