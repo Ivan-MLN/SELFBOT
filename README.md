@@ -8,7 +8,9 @@
 <p align="center">
 <a href="https://github.com/Ivan-MLN"><img title="Author" src="https://img.shields.io/badge/Author-Ivan MLN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-
+<p align="center">
+</p>
+    
 ## ⏳ Cara Install :
 ```bash
 > git clone https://github.com/Ivan-MLN/SELFBOT
