@@ -39,12 +39,12 @@ Jika Anda Mengingin Kan Script Ori / Full,
 Silah Kan Hubungi Saya Melalui Contact Me .
 ```
 # 🔥🔑 Apikey?
-* [`imgbb`](https://api.imgbb.com/)
+* [`imgbb`](https://api.imgbb.com)
 * [`lolhuman`](https://api.lolhuman.xyz/pricing)
-
+* [``](https://api.zeks.xyz)‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
 ## ✍️ Editing the file
 Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/blob/main/setting.json)
-```
+```json
 {
     "name": "@Ivanzz", 
     "prefix": "z",
@@ -58,7 +58,7 @@ Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/
     "author": "@Ivanzz_",
     "package_name": "Mastah"
 }
-```
+```json
 ## 😍 Feature
 
 | FEATURE |✅|
