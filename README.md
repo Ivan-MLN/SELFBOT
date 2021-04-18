@@ -40,13 +40,12 @@ Silah Kan Hubungi Saya Melalui Contact Me .
 ```
 ## ✍️ Editing the file
 Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/blob/main/setting.json)
-```json
 {
     "name": "@Ivanzz", 
     "prefix": "z",
     "lol": "beta",
     "zeks": "apivinz",
-    "imgbb_key": "[`Get Apikey`](https://api.imgbb.com/)",
+    "imgbb_key": [`Get Apikey`](https://api.imgbb.com/),
     "fake": "SELFBOT",
     "harga_toko": "999999999",
     "ucapan_welcome": "Welcome",
@@ -54,7 +53,7 @@ Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/
     "author": "@Ivanzz_",
     "package_name": "Mastah"
 }
-```
+
 ## 😍 Feature
 
 | FEATURE |✅|
