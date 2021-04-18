@@ -8,10 +8,6 @@
 <p align="center">
 <a href="https://github.com/Ivan-MLN"><img title="Author" src="https://img.shields.io/badge/Author-Ivan MLN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
-<aREADME.md href="https://github.com/Ivan-MLN/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ivan-MLN?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ivan-MLN/SELFBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ivan-MLN/SELFBOT?color=red&style=flat-square"></a>
-</p>
 
 ## ⏳ Cara Install :
 ```bash
