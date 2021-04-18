@@ -58,7 +58,8 @@ Edit the required value in [`setting.json`](https://github.com/Ivan-MLN/SELFBOT/
     "author": "@Ivanzz_",
     "package_name": "Mastah"
 }
-```json
+```
+
 ## 😍 Feature
 
 | FEATURE |✅|
