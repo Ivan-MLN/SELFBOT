@@ -41,7 +41,7 @@ Jika Anda Mengingin Kan Script Ori / Full,
 Silah Kan Hubungi Saya Melalui Contact Me .
 ```
 ## ✍️ Editing the file
-Edit the required value in `setting.json`:
+Edit the required value in `setting.json`
 ```json
 {
     "name": "@Ivanzz", 
