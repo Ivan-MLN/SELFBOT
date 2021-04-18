@@ -58,8 +58,9 @@ Edit the required value in `setting.json`:
 ```
 ## 😍 Feature
 
-| GC Buka/Tutup |✅|
+| FEATURE |
 | ------------- | ------------- |
+| GC Buka/Tutup|✅|
 | Fitnah|✅|
 | Setting Desk/Name HC|✅|
 | Tagall|✅|
