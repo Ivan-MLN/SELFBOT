@@ -10,6 +10,7 @@
 </p>
 <p align="center">
 </p>
+</div>
     
 ## ⏳ Cara Install :
 ```bash
