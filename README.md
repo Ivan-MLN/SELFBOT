@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://i.ibb.co/xh1jJ9V/c04a33a54164.png" alt="SELFBOT" width="300" />
-<p align="center">
-</p>
+
 <p align="center">
 <a href="#"><img title="SELF - BOT" src="https://img.shields.io/badge/ SELFBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
