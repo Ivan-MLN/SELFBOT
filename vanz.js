@@ -131,7 +131,6 @@ let d = new Date
 }
 const vanz = new WAConnection()
 
-const vanz = new WAConnection()
 vanz.logger.level = 'warn'
 console.log(banner.string)
    vanz.on('qr', qr => {
