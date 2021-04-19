@@ -1,5 +1,5 @@
 /*
-GAI GW IVANZZ
+HAI GW IVANZZ
 JAN DI BULLY YA
 BARU PERTAMA UP GITHUB SOAL NYA
 MEHEHEHWHEHE
@@ -131,18 +131,26 @@ let d = new Date
 }
 const vanz = new WAConnection()
 
-vanz.on('qr', qr => {
-	qrcode.generate(qr, { small: true })
-	console.log(`${setting.fake} @Ivanzz`)
+const vanz = new WAConnection()
+vanz.logger.level = 'warn'
+console.log(banner.string)
+   vanz.on('qr', qr => {
+   qrcode.generate(qr, { small: true })
+	console.log(color('[','white'), color('!','red'), color(']','white'), color('SELFBOT @Ivanzz_  SCAN BROO'))
 })
 
-vanz.on('credentials-updated', () => {
-	const authInfo = vanz.base64EncodedAuthInfo()
-	console.log(`credentials updated!`)
-	fs.writeFileSync('./IvanzzConnect.json', JSON.stringify(authInfo, null, '\t'))
-})
-fs.existsSync('./IvanzzConnect.json') && vanz.loadAuthInfo('./IvanzzConnect.json')
-vanz.connect();
+	vanz.on('credentials-updated', () => {
+		fs.writeFileSync('./IvanzzConnect.json', JSON.stringify(vanz.base64EncodedAuthInfo(), null, '\t'))
+		info('2', 'Loading')
+	})
+	fs.existsSync('./IvanzzConnect.json') && vanz.loadAuthInfo('./IvanzzConnect.json')
+	vanz.on('connecting', () => {
+		start('2', 'Connecting')
+	})
+	vanz.on('open', () => {
+		success('2', 'Connected ')
+	})
+	vanz.connect({timeoutMs: 30*1000})
 
 //welcome
 vanz.on('group-participants-update', async (anu) => {
