@@ -39,7 +39,7 @@ const { fetchJson } = require('./lib/fetcher');
 
 const { recognize } = require('./lib/ocr');
 
-const 
+const
  { 
   wait,
   simih,
