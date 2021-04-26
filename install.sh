@@ -10,5 +10,5 @@ apt-get install tesseract -y
 npm i node-tesseract-ocr
 npm i cheerio
 npm i
-npm i @adiwajshing/baileys@3.3.0
+npm i @adiwajshing/baileys@3.4.1
 npm start
